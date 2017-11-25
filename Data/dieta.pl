@@ -1,6 +1,7 @@
 :- dynamic food/6. %food(nombre, energía (kcal), proteínas (g), grasa total (g), calcio (mg), vitamina c (mg))
 :- dynamic body_mass_index/3. %body_mass_index(nombre, desde, hasta)
 
+%FOOD
 food('achita, kiwicha o achis',343,12.8,6.6,236,1.3).
 food('arroz pilado o pulido cocido',115,2.4,0.1,11,0).
 food('arroz blanco corriente',358,7.8,0.7,6,0.9).
@@ -676,7 +677,7 @@ food('papa variedad nativa quinuapa tulum con cáscara',70,1.9,0.5,7,26.64).
 food('papa variedad nativa sapa negra con cáscara',72,2.2,0.3,-,30.22).
 food('papa variedad nativa yana shaque con cáscara',108,1.8,0.4,6,24.02).
 
-
+%Indice de masa corporal
 body_mass_index('Obesidad III',40,-).
 body_mass_index('Obesidad II',35,39.9).
 body_mass_index('Obesidad I',30,34.9).
@@ -686,7 +687,12 @@ body_mass_index('Desnutrición I',17,18.4).
 body_mass_index('Desnutrición II',16,16.9).
 body_mass_index('Desnutrición III',-,16).
 
+load(A):-
+exists_file(A),
+consult(A).
 
+between(Num):-
+	
 
-ger(Sexo,Edad,Peso,Talla,Actividad):-
+%ger(Sexo,Edad,Peso,Talla,Actividad):-
 	

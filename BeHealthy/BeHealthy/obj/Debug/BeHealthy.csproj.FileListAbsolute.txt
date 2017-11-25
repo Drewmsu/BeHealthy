@@ -1,2 +1,10 @@
 D:\2017-02\Inteligencia Artificial\extra\BeHealthy\BeHealthy\bin\Debug\BeHealthy.exe.config
 D:\2017-02\Inteligencia Artificial\TF\BeHealthy\BeHealthy\BeHealthy\bin\Debug\BeHealthy.exe.config
+D:\2017-02\Inteligencia Artificial\TF\BeHealthy\BeHealthy\BeHealthy\bin\Debug\BeHealthy.exe
+D:\2017-02\Inteligencia Artificial\TF\BeHealthy\BeHealthy\BeHealthy\bin\Debug\BeHealthy.pdb
+D:\2017-02\Inteligencia Artificial\TF\BeHealthy\BeHealthy\BeHealthy\obj\Debug\BeHealthy.csprojResolveAssemblyReference.cache
+D:\2017-02\Inteligencia Artificial\TF\BeHealthy\BeHealthy\BeHealthy\obj\Debug\BeHealthy.BeHealthy.resources
+D:\2017-02\Inteligencia Artificial\TF\BeHealthy\BeHealthy\BeHealthy\obj\Debug\BeHealthy.Properties.Resources.resources
+D:\2017-02\Inteligencia Artificial\TF\BeHealthy\BeHealthy\BeHealthy\obj\Debug\BeHealthy.csproj.GenerateResource.Cache
+D:\2017-02\Inteligencia Artificial\TF\BeHealthy\BeHealthy\BeHealthy\obj\Debug\BeHealthy.exe
+D:\2017-02\Inteligencia Artificial\TF\BeHealthy\BeHealthy\BeHealthy\obj\Debug\BeHealthy.pdb
