@@ -791,7 +791,15 @@ calculate_p_g_ch(Get,Proteins,Fat,Carbohydrate):-
 	Proteins is (Get*0.15)/4,
 	Fat is (Get*0.25)/9,
 	Carbohydrate is (Get*0.60)/4.
-						
-%validate_all(Get):-
+
+validate_all(Get,Result):-
 	calculate_p_g_ch(Get,Proteins,Fat,Carbohydrate),
-	
+	writeln(Proteins),writeln(Fat),writeln(Carbohydrate),
+	food(Food,_,Aux_p,Aux_f,Aux_c,_,_),
+	( Aux_p < Proteins ->
+		( Aux_f < Fat ->
+			( Aux_c < Carbohydrate ->
+				Result = Food,
+				details_food(Food) ) ) ).
+
+	%food(nombre, energía (kcal), proteínas (g), grasa total (g), carbohidratos total (g), calcio (mg), vitamina c (mg))

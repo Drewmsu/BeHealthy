@@ -30,15 +30,15 @@ namespace BeHealthy
             {
                 cbEdad.SelectedIndex = 0;
                 cbActividad.SelectedIndex = 0;
-                Environment.SetEnvironmentVariable("SWI_HOME_DIR", @"prolog");
+                //Environment.SetEnvironmentVariable("SWI_HOME_DIR", @"prolog");
                 //Environment.SetEnvironmentVariable("Path", @"prolog");
                 //Environment.SetEnvironmentVariable("Path", @"prolog\\bin");
                 Environment.SetEnvironmentVariable("Path", @"C:\\Program Files (x86)\\swipl\\bin");
-                string[] p = { "-q", "-f", "@dieta.pl" };
+                string[] p = { "-q" };
                 PlEngine.Initialize(p);
-                PlQuery load = new PlQuery("load('dieta.bd')");
+                //PlQuery load = new PlQuery("load('dieta.bd')");
 
-                load.NextSolution();
+                //load.NextSolution();
 
             }
             catch (Exception exception)
