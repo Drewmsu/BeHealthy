@@ -8,3 +8,12 @@ D:\2017-02\Inteligencia Artificial\TF\BeHealthy\BeHealthy\BeHealthy\obj\Debug\Be
 D:\2017-02\Inteligencia Artificial\TF\BeHealthy\BeHealthy\BeHealthy\obj\Debug\BeHealthy.csproj.GenerateResource.Cache
 D:\2017-02\Inteligencia Artificial\TF\BeHealthy\BeHealthy\BeHealthy\obj\Debug\BeHealthy.exe
 D:\2017-02\Inteligencia Artificial\TF\BeHealthy\BeHealthy\BeHealthy\obj\Debug\BeHealthy.pdb
+D:\UPC\Ciclo8\Inteligencia Artificial\TF\BeHealthy\BeHealthy\bin\Debug\BeHealthy.exe.config
+D:\UPC\Ciclo8\Inteligencia Artificial\TF\BeHealthy\BeHealthy\bin\Debug\BeHealthy.exe
+D:\UPC\Ciclo8\Inteligencia Artificial\TF\BeHealthy\BeHealthy\bin\Debug\BeHealthy.pdb
+D:\UPC\Ciclo8\Inteligencia Artificial\TF\BeHealthy\BeHealthy\obj\Debug\BeHealthy.csprojResolveAssemblyReference.cache
+D:\UPC\Ciclo8\Inteligencia Artificial\TF\BeHealthy\BeHealthy\obj\Debug\BeHealthy.BeHealthy.resources
+D:\UPC\Ciclo8\Inteligencia Artificial\TF\BeHealthy\BeHealthy\obj\Debug\BeHealthy.Properties.Resources.resources
+D:\UPC\Ciclo8\Inteligencia Artificial\TF\BeHealthy\BeHealthy\obj\Debug\BeHealthy.csproj.GenerateResource.Cache
+D:\UPC\Ciclo8\Inteligencia Artificial\TF\BeHealthy\BeHealthy\obj\Debug\BeHealthy.exe
+D:\UPC\Ciclo8\Inteligencia Artificial\TF\BeHealthy\BeHealthy\obj\Debug\BeHealthy.pdb
